@@ -26,6 +26,7 @@ I am a passionate Full Stack Developer with 2 years of experience, currently wor
 ### Tools & Platforms:
 - Git
 - GitHub
+- Docker
 
 ## 📊 GitHub Stats
 - **Top Languages:** [Node.js, Express, Typescript]
